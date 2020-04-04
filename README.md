@@ -2,6 +2,7 @@ SpatialCrowdsourcing-LTC: Latency-oriented Task Completion via Spatial Crowdsour
 ========================================================================
 
 This repository stores the source code of the proposed solutions to the problem called LTC in the following paper.
+
 [1] **Latency-Oriented Task Completion via Spatial Crowdsourcing.**
 *Yuxiang Zeng, Yongxin Tong, Lei Chen, Zimu Zhou.* ICDE 2018: 317-328. [link](https://doi.org/10.1109/ICDE.2018.00037) [slides](http://yongxintong.group/static/paper/2018/ICDE18_Latency-oriented%20Task%20Completion%20via%20Spatial%20Crowdsourcing-slides.pptx)
 
